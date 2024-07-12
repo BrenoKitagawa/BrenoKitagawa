@@ -5,8 +5,8 @@ I'm a Web Developer. and, i'm studying web development at [Rocketseat](https://w
 
 ### Current stack
 
-- 🚀 Main language : `JavaScript`.
-- 💡 Backend : `NodeJs`.
+- 🚀 Main language : `Java`.
+- 💡 Backend : `NodeJs` `Java`.
 - ✨ FrontEnd: `ReactJs`, `HTML5` , `CSS3` , `JavaScript` , `SASS`.
 - 🎨 Layout Design : `Figma`.
 - 📝 Version code control: `Git & Github`.
@@ -21,3 +21,4 @@ I'm a Web Developer. and, i'm studying web development at [Rocketseat](https://w
 BrenoKitagawa/BrenoKitagawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
