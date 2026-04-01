@@ -1,5 +1,13 @@
 ## Breno Kitagawa Desenvolvedor full stack !!
 
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=BrenoKitagawa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
 
 <div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
   <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
