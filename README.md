@@ -1,8 +1,5 @@
 ## Breno Kitagawa Desenvolvedor full stack !!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoKitagawa)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
   <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
