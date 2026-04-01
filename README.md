@@ -6,7 +6,42 @@
 
 </div>
 
-<br>
+
+<p><strong>Stats · Languages by commit</strong></p>
+<table cellspacing="0" cellpadding="10" border="0" align="center">
+<tr>
+<td align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BrenoKitagawa/BrenoKitagawa/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub statistics" />
+</td>
+<td align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BrenoKitagawa/BrenoKitagawa/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commit" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p><strong>Languages by repo · Productive hours (UTC−3)</strong></p>
+<table cellspacing="0" cellpadding="10" border="0" align="center">
+<tr>
+<td align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BrenoKitagawa/BrenoKitagawa/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top languages by repository" />
+</td>
+<td align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BrenoKitagawa/BrenoKitagawa/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Most productive hours (UTC-3)" />
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<p><strong>Public activity timeline</strong></p>
+<sub>Third-party graph — <strong>public</strong> commits only (private activity is not available here).</sub>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenoKitagawa&theme=nord&hide_border=true&custom_title=Public%20contribution%20timeline&area=true" alt="Public contribution activity graph" />
+
+<br/>
+
 
 
 <div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
