@@ -6,23 +6,6 @@
 
 </div>
 
-<div align="center">
-
-<table cellspacing="16" cellpadding="0" border="0">
-<tr>
-<td align="center" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrenoKitagawa&theme=nord_dark" alt="GitHub statistics: stars, commits, PRs, issues" />
-</td>
-<td align="center" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrenoKitagawa&theme=nord_dark" alt="Top languages by commit" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 <br>
 
 
