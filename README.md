@@ -79,3 +79,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrenoKitagawa/BrenoKitagawa/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrenoKitagawa/BrenoKitagawa/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+
+## Meu Portfólio
+
+<a href="https://portfolio-production-7db1.up.railway.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Portfólio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br><br>
+
+🔗 **https://portfolio-production-7db1.up.railway.app/**
+
+</div>
