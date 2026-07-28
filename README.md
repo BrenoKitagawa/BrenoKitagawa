@@ -84,8 +84,8 @@
 
 ## Meu Portfólio
 
-<a href="https://portfolio-production-7db1.up.railway.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar%20Portfólio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<a href="https://portfolio-production-7db1.up.railway.app/">
+  <img src="URL_DA_SCREENSHOT_DO_PORTFOLIO" width="900" alt="Portfolio Preview">
 </a>
 
 <br><br>
